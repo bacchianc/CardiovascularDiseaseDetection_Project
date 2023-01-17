@@ -1,2 +1,3 @@
 # ML_Classification_Project
-An application to classify the patients to be healthy or suffering from cardiovascular disease.
+
+This project is focuses on building a Model to predict Cardiovascular Disease.
