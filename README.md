@@ -31,7 +31,7 @@
    
    
    
- ## 2. Solution approach Using Linear Regression
+ ## 2. Solution approach Using Logistic Regression
 
    2.1 Import Necessary Libraries
 
